@@ -1,8 +1,8 @@
 {
-    "name": "ushahidi/shadowhand-email",
+    "name": "ssulima/shadowhand-email",
     "description": "Email helper class, uses Swiftmailer",
     "keywords": ["email", "helper", "module", "library", "swiftmailer", "kohana", "ohanzee"],
-    "homepage": "http://github.com/ushahidi/shadowhand-email",
+    "homepage": "http://github.com/ssulima/shadowhand-email",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -17,8 +17,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "swiftmailer/swiftmailer": "~4.3.1",
+        "php": ">=5.3.0|>=7.0",
+        "swiftmailer/swiftmailer": "~5.4.0",
         "kohana/core": "3.3.*"
     },
     "autoload": {
